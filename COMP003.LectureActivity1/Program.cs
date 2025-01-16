@@ -20,3 +20,4 @@ namespace COMP003.LectureActivity1
     }
 }
 // This is a modification to my code
+// This is a test to ensure Github
