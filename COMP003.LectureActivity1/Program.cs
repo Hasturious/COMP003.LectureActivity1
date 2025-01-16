@@ -1,4 +1,6 @@
-﻿/*
+﻿/* a multi line comments open with a foward slash and an asterisk and close with a asterisk foward slash */
+
+/*
  * Author: Jean Bryant Figueroa
  * Course: COMP-003A
  * Faculty: Jonathan Cruz 
